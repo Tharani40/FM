@@ -99,7 +99,7 @@ Calculation
 <img width="644" height="237" alt="image" src="https://github.com/user-attachments/assets/1d6926d6-ed68-445f-956c-bdaa3b4120d9" />
 
 
-Frequency Deviation Practical =3024
+Frequency Deviation Practical =1185.45
 
 Modulation Index Practical	= 4
 
